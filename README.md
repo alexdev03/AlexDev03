@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Alex! 🚀
 
-<!--
-**alexdev03/AlexDev03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+I’m a developer passionate about minecraft ecosystem, networking, and building cool things.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: AmberRealm, [Velocitab](https://github.com/WiIIiam278/Velocitab) and [UnlimitedNameTags](https://github.com/alexdev03/UnlimitedNametags)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Skillset
+- **Languages:** [Java, JavaScript, SQL, Python, Kotlin]
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev03&show_icons=true&theme=radical)
+
+---
+
