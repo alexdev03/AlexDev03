@@ -13,7 +13,7 @@ I’m a developer passionate about minecraft ecosystem, networking, and building
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AlexDev03&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AlexDev03&show_icons=true&theme=radical&include_orgs=true)
 
 ---
 
