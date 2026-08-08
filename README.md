@@ -3,7 +3,7 @@
 
   # Hey, I'm Alex 👋
 
-  **Java developer building tools for the Minecraft ecosystem.**<br>
+  **Java and Minecraft Bedrock developer building tools across the Minecraft ecosystem.**<br>
   Networking, backend systems, and open source.
 
   <a href="https://github.com/alexdev03?tab=followers"><img src="https://img.shields.io/github/followers/alexdev03?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"></a>
