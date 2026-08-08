@@ -1,19 +1,17 @@
-# 👋 Hi there, I'm Alex! 🚀
+# Hey, I'm Alex 👋
 
-### 🌟 About Me
-I’m a developer passionate about minecraft ecosystem, networking, and building cool things.
+Java developer focused on the Minecraft ecosystem, networking, and open-source tools.
 
-- 🔭 Currently working on: AmberRealm, [Velocitab](https://github.com/WiIIiam278/Velocitab) and [UnlimitedNameTags](https://github.com/alexdev03/UnlimitedNametags)
+## What I'm working on
 
----
+- **[UnlimitedNameTags](https://github.com/alexdev03/UnlimitedNametags)** — customizable player name tags for Minecraft servers
+- **[Velocitab](https://github.com/WiIIiam278/Velocitab)** — a versatile tab list plugin for Velocity proxies
+- **AmberRealm** — building and maintaining a Minecraft network
 
-### 🛠️ My Skillset
-- **Languages:** [Java, JavaScript, SQL, Python, Kotlin]
+## Toolbox
 
----
+`Java` · `Kotlin` · `Python` · `JavaScript` · `SQL`
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AlexDev03&show_icons=true&theme=radical&include_orgs=true)
+## Contact
 
----
-
+Find me on Discord: **[@alexdev03](https://discord.com/users/alexdev03)**
